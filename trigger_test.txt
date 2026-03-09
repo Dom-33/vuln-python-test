@@ -6,3 +6,5 @@ trigger final 2026-03-09T12:25:36Z
 trigger cleanup 2026-03-09T12:30:12Z
 
 trigger no-editorconfig 2026-03-09T12:46:14Z
+
+trigger pip-audit direct 2026-03-09T13:09:52Z
